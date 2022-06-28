@@ -1,0 +1,6 @@
+.input {
+    display: flex;
+    background-color: rgb(255, 143, 143);    
+    width: 100px;
+    height: 100px;
+}
